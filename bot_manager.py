@@ -1,4 +1,3 @@
-pip install flask flask-socketio eventlet
 import sys
 import subprocess
 import threading
